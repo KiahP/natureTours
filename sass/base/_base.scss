@@ -1,0 +1,17 @@
+// basic css reset, use the universal element to be sure that the margin and padding are set to zero and that box-sizing: border-box padding and border are included in width and height of element 
+
+*,
+*::after,
+*::before {
+    margin:0;
+    padding:0;
+    box-sizing: inherit;   
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
