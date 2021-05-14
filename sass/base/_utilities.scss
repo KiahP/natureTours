@@ -1,10 +1,10 @@
 //centers the text
-.u-center-text {text-align: center;}
+.u-center-text {text-align: center !important; }
 // margin on the bottom
-.u-margin-bottom-big {margin-bottom: 8rem;}
-.u-margin-bottom-medium {margin-bottom: 4rem;}
-.u-margin-bottom-small {margin-bottom: 1.5rem;}
+.u-margin-bottom-big {margin-bottom: 8rem !important;}
+.u-margin-bottom-medium {margin-bottom: 4rem !important;}
+.u-margin-bottom-small {margin-bottom: 1.5rem !important;}
 
 //margin top
-.u-margin-top-big {margin-bottom: 8rem;}
-.u-margin-top-huge {margin-bottom: 10rem;}
+.u-margin-top-big {margin-bottom: 8rem !important;}
+.u-margin-top-huge {margin-bottom: 10rem !important;}
